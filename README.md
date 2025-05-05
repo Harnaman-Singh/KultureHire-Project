@@ -57,7 +57,11 @@ Slicer for male and female participants
 Create Functional dashboards in Power BI to deliver actionable insights for the Head of Recruitment, Head of HR, and employers in general. You are supposed to create the following Foucs- Area Dashboards.
 
 1.Manager Aspirations- This dashboard should deliver all KPIs and insights of Employer expectations of Gen-Z.
+
 2 Mission Aspirations - This dashboard should tell about the mission-driven aspirations of Gen-Z
+
 Each dashboard should also have:
+
 2 KPIs - Total nmber of Participants and Total number of Pincodes
+
 Slicer for male and female participants
